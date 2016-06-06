@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.museo" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Museo</name>
+    <name>Geo Test</name>
     <description>
-        Aplicación para el Museo de Arquitectura de Buenos Aires
+        Test para el plugin de geolocalizacion
     </description>
     <author email="geerman.figueroa@gmail.com" href="#">
         Germán Figueroa
